@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diogo Frazão</h1>
-<h3 align="center">Passionate Young Trailblazer: Constantly Learning, Always Hustling, and Building a Bright Future in Code and Knowledge.</h3>
+<h3 align="center">Passionate Young Explorer: Constantly Learning, Always Hustling, and Building a Bright Future in Code and Knowledge.</h3>
 <br/>
 
 
