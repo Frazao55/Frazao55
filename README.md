@@ -1,5 +1,5 @@
 # 💫 About Me:
-👦🏻Current 3rd year student in the Computer Engineering course at the Polytechnic of Leiria, with a strong passion for technology and innovation. I have a particular interest in software development and I am always looking for new ways to create and improve applications.<br><br>🧠I believe that soft skills are just as important as technical skills, and I am always working to improve my communication, problem-solving, and teamwork skills.
+👨🏻‍🎓 Recently graduated in Computer Engineering from the Polytechnic of Leiria, currently pursuing a Master's degree in Computer Engineering at the University of Coimbra. I have a strong passion for technology and innovation, with a particular interest in software development. I am always looking for new ways to create and improve applications.<br><br>🧠I believe that soft skills are just as important as technical skills, and I am always working to improve my communication, problem-solving, and teamwork skills.
 
 
 ## 🌐 Socials:
